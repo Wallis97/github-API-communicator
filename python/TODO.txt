@@ -1,0 +1,9 @@
+- store access token as a secret in code instead of environment variable 
+- get info from GitLab:
+    - MR list
+    - branches list 
+    - tags
+    - groups
+    - pipelines
+    - jobs
+    - commits
