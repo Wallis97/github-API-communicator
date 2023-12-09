@@ -1,1 +1,1 @@
-# github-API-communicator
+# gitlab-API-communicator
